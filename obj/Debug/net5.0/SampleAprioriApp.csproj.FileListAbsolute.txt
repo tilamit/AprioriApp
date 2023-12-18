@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\SampleAprioriApp\bin\Debug\net5.0\SampleAprioriApp.exe
+C:\Users\Hp\source\repos\SampleAprioriApp\bin\Debug\net5.0\SampleAprioriApp.deps.json
+C:\Users\Hp\source\repos\SampleAprioriApp\bin\Debug\net5.0\SampleAprioriApp.runtimeconfig.json
+C:\Users\Hp\source\repos\SampleAprioriApp\bin\Debug\net5.0\SampleAprioriApp.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\SampleAprioriApp\bin\Debug\net5.0\SampleAprioriApp.dll
+C:\Users\Hp\source\repos\SampleAprioriApp\bin\Debug\net5.0\SampleAprioriApp.pdb
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.AssemblyInfo.cs
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.dll
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\refint\SampleAprioriApp.dll
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.pdb
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\SampleAprioriApp.genruntimeconfig.cache
+C:\Users\Hp\source\repos\SampleAprioriApp\obj\Debug\net5.0\ref\SampleAprioriApp.dll

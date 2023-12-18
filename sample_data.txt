@@ -1,0 +1,10 @@
+Apple, Fish
+Apple, Banana, Fish
+Apple, Cucumber, Fish
+Apple, Banana, Cucumber, Fish
+Salt, Fish, Dasheen, Apple, Spinach
+Banana, Cucumber, Spinach
+Banana, Dasheen, Apple
+Banana, Fish, Spinach
+Dasheen, Salt, Fish
+Apple, Orange, Cauliflower, Dasheen, Radish
