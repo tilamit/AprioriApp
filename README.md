@@ -79,10 +79,10 @@ Each data should be separated by a comma in the text file. For example:
 
 After instantiating, the results will be stored in the variables `iterationData` and `confidenceData` respectively.
 
-The results are obtained by calling `SetIteration` and `SetConfidence` from the Apriori object respectively. For example:
+The results are obtained by calling `GetIteration` and `GetConfidence` from the Apriori object respectively. For example:
 ```C#
-aIApriori.SetIteration();
-aIApriori.SetConfidence();
+aIApriori.GetIteration();
+aIApriori.GetConfidence();
 ```
 
 ![image](https://i.postimg.cc/Gmqdgk9m/Screenshot-2023-12-18-210548.png)
