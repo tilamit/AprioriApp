@@ -110,7 +110,7 @@ namespace SampleAprioriApp.Repository
             }
         }
 
-        public void SetIteration()
+        public void GetIteration()
         {
             for (int i = 0; i < this.iterationData.Count; i++)
             {
@@ -128,7 +128,7 @@ namespace SampleAprioriApp.Repository
             }
         }
 
-        public void SetConfidence()
+        public void GetConfidence()
         {
             Console.WriteLine("Confidence：");
 
@@ -143,7 +143,7 @@ namespace SampleAprioriApp.Repository
             Console.WriteLine();
         }
 
-        public void IterateData()
+        public void SetIteration()
         {
             int originCount = this.originDataMapping.Count;
 
@@ -273,7 +273,7 @@ namespace SampleAprioriApp.Repository
             }
         }
 
-        public void ProcessConfidence()
+        public void SetConfidence()
         {
             if (iterationData.Count == 1) return;
 
@@ -345,8 +345,8 @@ namespace SampleAprioriApp.Repository
 
         public void Run()
         {
-            this.IterateData();
-            this.ProcessConfidence();
+            this.SetIteration();
+            this.SetConfidence();
         }
     }
 }
